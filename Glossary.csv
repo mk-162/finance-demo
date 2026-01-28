@@ -1,0 +1,75 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,E-COMMERCE METRICS GLOSSARY,,,
+,A comprehensive guide to understanding e-commerce KPIs and financial metrics,,,
+,,,,
+,HOW TO USE THIS SPREADSHEET,,,
+,,,,
+,1. START WITH ASSUMPTIONS: Review and adjust the blue-colored input values in the Assumptions sheet to match your expectations.,,,
+,"2. REVIEW SITE PROJECTIONS: Each site has its own sheet showing 12-month projections for traffic, revenue, and profitability.",,,
+,3. CHECK CONSOLIDATED VIEW: See the portfolio-wide aggregated metrics and track overall performance.,,,
+,4. MONITOR MONTHLY: Update actual figures against projections to track variance and adjust strategy.,,,
+,5. COLOR CODING: Blue text = Editable inputs | Black text = Calculated values | Green text = Cross-sheet references,,,
+,,,,
+,TRAFFIC METRICS,,,
+,,,,
+,Metric,Definition & Calculation,Benchmark,Why It Matters
+,Organic Traffic,"Visitors who find your site through unpaid search results (Google, Bing). Grows through SEO efforts.",15-30% monthly growth for new sites,"Sustainable, low-cost acquisition channel"
+,Paid Traffic,"Visitors from paid advertising (Google Ads, Meta/Facebook Ads). Directly controlled by budget.",Varies by industry: £1-5 CPC typical,"Immediate traffic, scalable with budget"
+,Direct Traffic,Visitors who type your URL directly or use bookmarks. Indicates brand awareness.,Typically 10-20% of total traffic,Shows brand strength and customer loyalty
+,Total Traffic,Sum of all traffic sources: Organic + Paid + Direct + Referral + Social.,Growth rate is key metric,Top of funnel - drives all downstream metrics
+,Bounce Rate,Percentage of visitors who leave after viewing only one page.,"Good: <40%, Poor: >60%",Indicates landing page quality and relevance
+,,,,
+,CONVERSION METRICS,,,
+,,,,
+,Metric,Definition & Calculation,Benchmark,Why It Matters
+,Conversion Rate (CVR),Percentage of visitors who make a purchase. Formula: Orders ÷ Total Traffic × 100,"B2C: 1.5-3%, B2B: 2-5%",Core metric for site effectiveness
+,Orders,Total number of transactions completed in a period.,Growth rate matters more than absolute,Directly drives revenue
+,Average Order Value (AOV),Average amount spent per order. Formula: Revenue ÷ Orders,Varies widely: £50-300 typical,Higher AOV = more revenue per customer
+,Cart Abandonment Rate,Percentage of shoppers who add items but don't complete purchase.,Industry avg: 70% (lower is better),Indicates checkout friction
+,Add to Cart Rate,Percentage of visitors who add items to cart.,"Good: >8%, Excellent: >12%",Shows product appeal and pricing
+,,,,
+,FINANCIAL METRICS,,,
+,,,,
+,Metric,Definition & Calculation,Benchmark,Why It Matters
+,Revenue,Total income from sales. Formula: Orders × AOV,Monthly growth target: 10-20%,Top-line business performance
+,Gross Profit,Revenue minus cost of goods sold. Formula: Revenue × Gross Margin %,Margin % is key: 30-50% typical,Money available to cover operating costs
+,Gross Margin %,Percentage of revenue kept after product costs. Formula: Gross Profit ÷ Revenue,"Good: >35%, Excellent: >50%",Indicates pricing power and efficiency
+,Contribution,Gross profit minus marketing and operational costs. Shows true profitability per site.,Target: Positive by month 6-9,Site-level profitability metric
+,ROAS (Return on Ad Spend),Revenue generated per £1 spent on ads. Formula: Revenue ÷ Ad Spend,"Good: 3x+, Excellent: 5x+",Measures advertising efficiency
+,CAC (Customer Acquisition Cost),Cost to acquire one customer. Formula: Marketing Spend ÷ New Customers,Varies: £10-50 typical,Lower CAC = more efficient marketing
+,LTV (Lifetime Value),Total revenue expected from a customer over their relationship.,LTV:CAC ratio should be >3:1,Justifies acquisition spend
+,Payback Period,Time to recover CAC through customer purchases.,Good: <6 months,Cash flow critical metric
+,,,,
+,MARKETING & SEO METRICS,,,
+,,,,
+,Metric,Definition & Calculation,Benchmark,Why It Matters
+,CPC (Cost Per Click),Amount paid for each ad click. Formula: Ad Spend ÷ Clicks,"£1-3 typical, varies by industry",Efficiency of paid campaigns
+,CPM (Cost Per Mille),"Cost per 1,000 ad impressions.",£5-20 typical,Brand awareness campaigns
+,CTR (Click-Through Rate),Percentage who click after seeing an ad. Formula: Clicks ÷ Impressions,"Good: >2%, Excellent: >5%",Ad relevance and creative quality
+,Impression Share,Percentage of available impressions your ads received.,Target: >70% for core keywords,Market visibility
+,Quality Score,Google Ads rating of ad relevance (1-10).,Target: 7+,Affects CPC and ad position
+,Domain Authority,SEO score predicting search ranking potential (1-100).,"Good: >40, Excellent: >60",SEO strength indicator
+,Backlinks,Number of external sites linking to yours.,Quality > Quantity,Major SEO ranking factor
+,Page Load Time,Time for page to fully load.,Target: <3 seconds,Affects SEO and conversion
+,,,,
+,CUSTOMER & RETENTION METRICS,,,
+,,,,
+,Metric,Definition & Calculation,Benchmark,Why It Matters
+,Repeat Purchase Rate,Percentage of customers who buy again. Formula: Returning Customers ÷ Total Customers,"Good: >20%, Excellent: >40%",Customer loyalty indicator
+,Net Promoter Score (NPS),Customer satisfaction score (-100 to +100) based on likelihood to recommend.,"Good: >30, Excellent: >50",Word-of-mouth potential
+,Customer Reviews,Quantity and quality of product/site reviews.,"Target: >4.5 stars, growing count",Social proof and SEO
+,Return Rate,Percentage of orders returned.,Target: <5%,Product quality and description accuracy
+,Time to Purchase,Average days from first visit to purchase.,Varies: 1-30 days typical,Sales cycle length
+,,,,
+,,,,
+,KEY FORMULAS REFERENCE,,,
+,,,,
+,Formula Name,Formula,Example,
+,Revenue,Orders × AOV,"100 orders × £85 = £8,500",
+,Gross Profit,Revenue × Gross Margin %,"£8,500 × 40% = £3,400",
+,Contribution,Gross Profit - Marketing - Operations,"£3,400 - £2,000 - £800 = £600",
+,ROAS,Revenue ÷ Ad Spend,"£8,500 ÷ £2,500 = 3.4x",
+,CAC,Marketing Spend ÷ New Customers,"£2,500 ÷ 50 = £50",
+,Conversion Rate,(Orders ÷ Traffic) × 100,"(100 ÷ 5,000) × 100 = 2%",
+,AOV,Revenue ÷ Orders,"£8,500 ÷ 100 = £85",
+,LTV,AOV × Purchase Frequency × Lifespan,£85 × 3 × 2 years = £510,

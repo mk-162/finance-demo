@@ -1,0 +1,58 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+,ASSUMPTIONS & INDUSTRY BENCHMARKS,,,,,,
+,Adjust these values to model different scenarios. All projections flow from these assumptions.,,,,,,
+,,,,,,,
+,TRAFFIC ASSUMPTIONS,,,,,,
+,,,,,,,
+,Metric,GTSE.co.uk,GTSEGroup.com,SSH UK,SSH USA,Epha.com,Notes / Source
+,Starting Organic Traffic (M1),800,200,500,300,150,Industry: 300-1000 for new sites
+,Organic Growth Rate (MoM),0.04,0.15,0.08,0.15,0.2,Stress Test: Conservative SEO Ramps
+,Starting Paid Traffic (M1),1200,800,1000,1500,600,Based on initial ad budget
+,Paid Growth Rate (MoM),0.05,0.1,0.08,0.12,0.1,Stress Test: Scale with Margin
+,Direct/Referral Traffic (M1),300,100,200,150,80,Brand awareness baseline
+,Direct Growth Rate (MoM),5%,8%,6%,10%,12%,Brand building over time
+,,,,,,,
+,CONVERSION & REVENUE ASSUMPTIONS,,,,,,
+,,,,,,,
+,Metric,GTSE.co.uk,GTSEGroup.com,SSH UK,SSH USA,Epha.com,Notes / Source
+,Starting Conversion Rate (M1),2.0%,1.5%,2.2%,2.0%,1.8%,"Industry avg: 1.5-3% B2C, 2-4% B2B"
+,Conversion Improvement (MoM),0.1%,0.15%,0.1%,0.12%,0.15%,CRO optimization
+,Max Conversion Rate,3.5%,3.0%,3.8%,3.5%,3.2%,Realistic ceiling
+,Average Order Value (AOV) - M1,85,250,75,90,120,B2B higher than B2C
+,AOV Growth (MoM),0.005,0.01,0.005,0.01,0.01,Stress Test: Incremental Upselling
+,Gross Margin,40%,45%,38%,40%,50%,Industry: 30-50%
+,Distribution Cost %,20%,15%,22%,20%,18%,Shipping + fulfillment
+,,,,,,,
+,MARKETING SPEND ASSUMPTIONS,,,,,,
+,,,,,,,
+,Metric,GTSE.co.uk,GTSEGroup.com,SSH UK,SSH USA,Epha.com,Notes / Source
+,Starting Paid Spend (M1),2500,1500,2000,3000,1200,Google Ads + Social
+,Paid Spend Growth (MoM),0.05,0.1,0.08,0.12,0.1,Scale with performance
+,Cost Per Click (CPC) - M1,2.08,1.88,2,2,2,Industry benchmark
+,CPC Trend (MoM),0.005,0.005,0.005,0.005,0.005,Stress Test: Competitive Inflation
+,SEO Investment (Monthly),800,1200,1000,1500,1000,Content + technical
+,Email Marketing (Monthly),300,200,400,500,300,Platform + creative
+,Influencer/Affiliate (Monthly),0,0,500,800,400,SSH USA focus
+,,,,,,,
+,OPERATIONAL COSTS (Monthly),,,,,,
+,,,,,,,
+,Metric,GTSE.co.uk,GTSEGroup.com,SSH UK,SSH USA,Epha.com,Notes / Source
+,Platform/Hosting Fees,200,150,180,180,250,Shopify/Custom hosting
+,Payment Processing %,2.5%,2.5%,2.9%,2.9%,2.5%,Stripe/PayPal rates
+,Customer Service (Staff),1500,800,1200,1500,1000,Part-time to full-time
+,Software/Tools,300,400,350,350,400,"Analytics, CRM, etc."
+,Content Production,500,800,600,800,700,"Photography, copywriting"
+,,,,,,,
+,,,,,,,
+,INDUSTRY BENCHMARKS REFERENCE,,,,,,
+,,,,,,,
+,Metric,Poor,Average,Good,Excellent,Source,
+,E-commerce Conversion Rate,<1%,1.5-2.5%,2.5-4%,>4%,"IRP Commerce, 2024",
+,B2B Conversion Rate,<2%,2-3%,3-5%,>5%,"HubSpot, 2024",
+,Return on Ad Spend (ROAS),<2x,2-3x,3-5x,>5x,"WordStream, 2024",
+,Average Order Value (B2C),<£50,£50-100,£100-200,>£200,"Statista, 2024",
+,Cart Abandonment Rate,>80%,70-80%,60-70%,<60%,"Baymard Institute, 2024",
+,Customer Acquisition Cost,>£50,£30-50,£15-30,<£15,"FirstPageSage, 2024",
+,Customer Lifetime Value,<£100,£100-300,£300-800,>£800,"Shopify, 2024",
+,Email Open Rate,<15%,15-25%,25-35%,>35%,"Mailchimp, 2024",
+,Page Load Time Impact,>5s,3-5s,2-3s,<2s,"Google, 2024",

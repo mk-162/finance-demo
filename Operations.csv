@@ -1,0 +1,80 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8
+,OPERATIONAL PLAN & TEAM STRUCTURE,,,,,,,
+,"Resource Planning, Responsibilities, and Key Milestones",,,,,,,
+,,,,,,,,
+,TEAM STRUCTURE & RESPONSIBILITIES,,,,,,,
+,,,,,,,,
+,Role,FTE,Monthly Cost,M1-3,M4-6,M7-9,M10-12,Key Responsibilities
+,E-commerce Manager,1,4500,1,1,1,1,"Strategy, P&L, team leadership, vendor management"
+,Digital Marketing Manager,1,3800,1,1,1,1,"Paid campaigns, SEO, email, analytics, ROAS optimization"
+,Content Manager,1,3200,0.5,1,1,1,"Product content, blog, social, brand voice"
+,Web Developer,1,4000,1,1,1,1,"Site maintenance, CRO, technical SEO, integrations"
+,Customer Service Lead,1,2800,0.5,0.5,1,1,"Support team, returns, customer satisfaction"
+,Customer Service Rep,1,2200,0,0.5,1,1,"Order support, inquiries, live chat"
+,PPC Specialist,0.5,2500,0,0.5,0.5,0.5,"Google Ads, Meta Ads, campaign optimization"
+,SEO Specialist,0.5,2200,0.5,0.5,0.5,0.5,"Technical SEO, link building, content strategy"
+,Data Analyst,0.5,2800,0,0,0.5,0.5,"Reporting, insights, forecasting, dashboarding"
+,Total Team Cost (Monthly),,,,,,,
+,,,,,,,,
+,,,,,,,,
+,KEY MILESTONES & TIMELINE,,,,,,,
+,,,,,,,,
+,Phase,Timeline,Key Activities,Success Metrics,Owner,,,
+,Phase 1: Foundation,M1-M3,"• Site audits & technical fixes
+• Analytics setup & tracking
+• Initial content optimization
+• PPC campaign launch
+• Team onboarding","• All sites tracking correctly
+• 0 major technical issues
+• First campaigns live
+• Team fully operational",E-commerce Manager,,,
+,Phase 2: Growth,M4-M6,"• Scale winning campaigns
+• SEO content expansion
+• Email automation setup
+• CRO testing program
+• Review generation","• ROAS >2.5x
+• Organic traffic +50%
+• Email list 1000+
+• Conv rate +0.5%",Digital Marketing Manager,,,
+,Phase 3: Optimization,M7-M9,"• Advanced segmentation
+• Personalization rollout
+• Retargeting expansion
+• Affiliate program launch
+• International expansion","• ROAS >3.5x
+• CAC <£25
+• Repeat rate >20%
+• 3 sites profitable",E-commerce Manager,,,
+,Phase 4: Scale,M10-M12,"• Full budget deployment
+• New market testing
+• Product expansion
+• Automation at scale
+• Annual planning","• Portfolio ROAS >4x
+• All sites profitable
+• £200K+ monthly revenue
+• 15%+ net margin",E-commerce Manager,,,
+,,,,,,,,
+,,,,,,,,
+,MARKETING CHANNEL STRATEGY BY SITE,,,,,,,
+,,,,,,,,
+,Site,Primary Channels,Secondary Channels,Budget Split,Focus,,,
+,GTSE.co.uk,"Google Ads (Search), SEO","Email, LinkedIn","60% Paid, 40% Organic",B2B lead quality,,,
+,GTSEGroup.com,"LinkedIn, Content Marketing","SEO, Email","40% Paid, 60% Organic",Brand awareness,,,
+,SSH UK,"Google Ads, Facebook","SEO, Email","70% Paid, 30% Organic",Volume & speed,,,
+,SSH USA,"Google Ads, Facebook, Amazon","SEO, Influencers","75% Paid, 25% Organic",Market penetration,,,
+,Epha.com,"Content, SEO, PR","LinkedIn, Email","30% Paid, 70% Organic",Premium positioning,,,
+,,,,,,,,
+,,,,,,,,
+,REQUIRED TOOLS & SOFTWARE,,,,,,,
+,,,,,,,,
+,Category,Tool,Monthly Cost,Purpose,Sites,,,
+,Analytics,Google Analytics 4 + Data Studio,0,Traffic & conversion tracking,All,,,
+,Analytics,Hotjar,99,Heatmaps & session recordings,All,,,
+,Email,Klaviyo,300,Email marketing automation,All,,,
+,SEO,SEMrush,200,Keyword research & tracking,All,,,
+,SEO,Ahrefs,200,Backlink analysis,All,,,
+,PPC,Optmyzr,250,PPC optimization,SSH sites,,,
+,CRO,VWO,150,A/B testing platform,"GTSE.co.uk, SSH",,,
+,Reviews,Trustpilot,200,Review collection,"SSH UK, SSH USA",,,
+,Inventory,Linnworks,300,Inventory management,All,,,
+,Support,Zendesk,150,Customer support ticketing,All,,,
+,Total Tool Costs,(Included in site projections),,,,,,
